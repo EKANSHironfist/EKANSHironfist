@@ -16,7 +16,7 @@
 
 
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/EkanshKhanulia#gh-light-mode-only)
+[![twitter]("http://www.w3.org/2000/svg")](https://twitter.com/EkanshKhanulia#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-light-mode-only)
