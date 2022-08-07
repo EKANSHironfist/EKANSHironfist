@@ -43,16 +43,15 @@
 <br />
 <br />
 
-### 📕 Some Basics
+### 📕 Building the base of programming
 <!-- YOUTUBE:START -->
-- [Data Structure(important)](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
-- [  Data  Analysis and Algorithm  ](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-- [Recursion](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
-- [Graphs](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
-- [Dynamic Programming](https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+- [C/C++](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+- [HTML/CSS/JavaScript ](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [git](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [GitHub](https://www.youtube.com/watch?v=PQsJR8ci3J0)
 <!-- YOUTUBE:END -->
 
-### 📕 Some Advance Concept 
+### 📕 Molding the basics to Advance  
 <!-- BLOG-POST-LIST:START -->
 
 
@@ -64,7 +63,15 @@
 - [Dynamic Programming](https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+### 📕 Test your Skills through:
+<!-- YOUTUBE:START -->
+- [GeeksforGeeks](https://practice.geeksforgeeks.org/explore?page=1&curated[]=1&sortBy=submissions&curated_names[]=SDE%20Sheet)
+- [HackerRank](https://www.hackerrank.com/)
+- [leetcode](https://interview.leetcode.com/)
+- [Codeforces ⚡](https://codeforces.com/)
+<!-- YOUTUBE:END -->
+
+➡️ [more blog posts...]
 
 ---
 
