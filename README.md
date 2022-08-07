@@ -16,8 +16,8 @@
 
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/EkanshKhanulia#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/EkanshKhanulia#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-dark-mode-only)
