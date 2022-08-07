@@ -45,6 +45,11 @@
 
 ### 📕 Some Basics
 <!-- YOUTUBE:START -->
+- [Data Structure(important)](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
+- [  Data  Analysis and Algorithm  ](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Recursion](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
+- [Graphs](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+- [Dynamic Programming](https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 <!-- YOUTUBE:END -->
 
 ### 📕 Some Advance Concept 
