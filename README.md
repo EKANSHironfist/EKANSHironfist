@@ -17,7 +17,7 @@
 
 
 
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
+[![twitter](https://icons-for-free.com/logo+network+share+social+tweet+twitter+icon-1320194477056673108/)](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-dark-mode-only)
