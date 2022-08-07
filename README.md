@@ -75,6 +75,8 @@
 
 ---
 
+<img align="left" alt="Ekansh_Khanulia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EKANSHironfist&show_icons=true&hide_border=true" />
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
