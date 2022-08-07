@@ -43,10 +43,10 @@
 
 <br />
 <br />
-### 📕 Some Basics 
+
+### 📕 Some Basics
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
 
 ### 📕 Latest Blog Posts
 <!-- YOUTUBE:START -->
