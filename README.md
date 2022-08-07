@@ -47,18 +47,16 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-### 📕 Some Advance things to learn 
+### 📕 Some Advance Concept 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
-
-- [Getting Started with C/C++ ](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Data Structure(important)](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
+- [Getting Started with  Data  Analysis and Algorithm  ](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Recursion](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
+- [Graphs](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+- [Dynamic Programming](https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
