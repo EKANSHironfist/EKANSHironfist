@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Data Science and Analysis
 - ⚡ Fun fact: I love to  play  every Sport ,specially CRICKET,BADMINTON,FOOTBALL
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/account?tab=collected)
+- 😻 Check out the NFT collection I created: [M_a_s_s_E_t_e_r_s](https://opensea.io/account?tab=collected)
 
 ### Connect with me:
 
