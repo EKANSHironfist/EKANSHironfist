@@ -17,7 +17,7 @@
 
 
 
-[![twitter](https://icons-for-free.com/logo+network+share+social+tweet+twitter+icon-1320194477056673108/)](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
+[![twitter]()](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-dark-mode-only)
@@ -47,9 +47,10 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-### 📕 Latest Blog Posts
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+### 📕 Some Advance things to learn 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 
