@@ -16,7 +16,7 @@
 
 
 
-[![twitter]("http://www.w3.org/2000/svg")](https://twitter.com/EkanshKhanulia#gh-light-mode-only)
+[![twitter](<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)](https://twitter.com/EkanshKhanulia#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/EkanshKhanulia#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ekansh-khanulia-716813193/#gh-light-mode-only)
