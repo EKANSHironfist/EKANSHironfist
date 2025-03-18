@@ -3,16 +3,7 @@
 
 
 
-## I'm an underGRAD Developer!!
 
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Data Science and Analysis
-- ⚡ Fun fact: I love to  play  every Sport ,specially CRICKET,BADMINTON,FOOTBALL
-- 😻 Check out the NFT collection I created: [M_a_s_s_E_t_e_r_s](https://opensea.io/account?tab=collected)
-
-### Connect with me:
 
 
 
@@ -43,36 +34,11 @@
 <br />
 <br />
 
-### 📕 Building the base of programming
-<!-- YOUTUBE:START -->
-- [C/C++](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
-- [HTML/CSS/JavaScript ](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-- [git](https://www.youtube.com/watch?v=8JJ101D3knE)
-- [GitHub](https://www.youtube.com/watch?v=PQsJR8ci3J0)
-<!-- YOUTUBE:END -->
-
-### 📕 Molding the basics to Advance  
-<!-- BLOG-POST-LIST:START -->
 
 
 
-- [Data Structure(important)](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
-- [Getting Started with  Data  Analysis and Algorithm  ](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-- [Recursion](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
-- [Graphs](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
-- [Dynamic Programming](https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
-<!-- BLOG-POST-LIST:END -->
 
-### 📕 Test your Skills through:
-<!-- YOUTUBE:START -->
-- [GeeksforGeeks](https://practice.geeksforgeeks.org/explore?page=1&curated[]=1&sortBy=submissions&curated_names[]=SDE%20Sheet)
-- [HackerRank](https://www.hackerrank.com/)
-- [leetcode](https://interview.leetcode.com/)
-- [Codeforces ⚡](https://codeforces.com/)
-<!-- YOUTUBE:END -->
-
-➡️ [more blog posts...]
-
+-
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
